@@ -1,0 +1,1 @@
+conf = ["handlerA", "handlerB"]
